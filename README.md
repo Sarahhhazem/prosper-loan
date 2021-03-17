@@ -7,6 +7,7 @@
 > The Prosper Loan Dataset consists of 113,937 loans with 81 variables for each loan. These variables include Loan Original Amount, Borrower APR, Income Range, Employment Status, Prosper Rating and more. I wanted to look at the characteristics of borrowers that could be used to predict their borrower APR and the probability of a borrower defaulting on a loan. To do that, I added an extra "defaulted" binary feature where 1 indicates a customer has defaulted and 0 otherwise. 
 
 > Dataset can be found here: https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
+
 > Data feature documentation is available here: https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit
 
 
