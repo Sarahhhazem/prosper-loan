@@ -1,4 +1,3 @@
-# prosper-loan
 # Prosper Loan Data Exploration
 ## by Sarah Hazem 
 
